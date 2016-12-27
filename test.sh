@@ -1,6 +1,4 @@
-
-
-###!/bin/bash
+#!/bin/bash
 
 
 cd flight-school
