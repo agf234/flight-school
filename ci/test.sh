@@ -1,8 +1,6 @@
+#!/bin/bash
 
-
-###!/bin/bash
-
-#set -e -x
+set -e -x
 
 cd flight-school
   bundle install
