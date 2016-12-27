@@ -12,5 +12,5 @@ inputs:
 
 run:
   path: sh
-  args: flight-school/ci/test.sh
+  args: [flight-school/ci/test.sh]
   dir: .
